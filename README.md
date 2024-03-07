@@ -3,8 +3,8 @@ Ex Libris Documentation: https://developers.exlibrisgroup.com/blog/primo-showcas
 Ex Libris source Git Repository:  https://github.com/ExLibrisGroup/Discovery-Showcase
 
 
-| The following modifications were made to the source `Discovery-Showcase/src/pnx-card.ts` file starting on line `41`      |
-| ------------- |
+> **_NOTE:_** The following modifications were made to the source `Discovery-Showcase/src/pnx-card.ts` file starting on line `41`
+
 ```typescript
             <a  href="${this.getDeeplink()}" target="_blank" aria-label="">
                 ${until(imgPromise, imagePlaceHolder)}
