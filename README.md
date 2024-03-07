@@ -16,5 +16,3 @@ Ex Libris source Git Repository:  https://github.com/ExLibrisGroup/Discovery-Sho
             </a>
 
 ```
-
-Discovery-Showcase/src/pnx-card.ts
